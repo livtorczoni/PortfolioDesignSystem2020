@@ -1,0 +1,19 @@
+<svg viewBox="0 0 386 73" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#393939" x="4" y="2.5" width="106" height="67" rx="5"></rect>
+        <rect id="Rectangle-Copy" fill="#636363" x="140.25" y="2.5" width="106" height="67" rx="5"></rect>
+        <rect id="Rectangle-Copy-2" fill="#FAFAFA" x="276.5" y="2.5" width="106" height="67" rx="5"></rect>
+        <text id="#393939-dark-grey" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" fill="#FAFAFA">
+            <tspan x="10.25" y="30.5">#393939</tspan>
+            <tspan x="10.25" y="44.5">dark grey</tspan>
+        </text>
+        <text id="#636363-light-grey" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" fill="#FAFAFA">
+            <tspan x="149" y="30.5">#636363</tspan>
+            <tspan x="149" y="44.5">light grey</tspan>
+        </text>
+        <text id="#fafafa-white" font-family="SFProText-Regular, SF Pro Text" font-size="12" font-weight="normal" fill="#393939">
+            <tspan x="288.5" y="30.5">#fafafa</tspan>
+            <tspan x="288.5" y="44.5">white</tspan>
+        </text>
+    </g>
+</svg>
